@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: 296e1e2e78db19c41927ece0b27fbfcf
+timeCreated: 1508568532
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: boosters
+    100002: Box003
+    100004: Box004
+    100006: Box005
+    100008: Box006
+    100010: Box007
+    100012: Box008
+    100014: Box009
+    100016: Box010
+    100018: connectThingy
+    100020: corridor
+    100022: corridor 1
+    100024: corridor002
+    100026: corridor003
+    100028: corridor003 1
+    100030: corridor004
+    100032: corridor004 1
+    100034: corridor006
+    100036: corridor007
+    100038: corridor008
+    100040: corridor009
+    100042: corridor010
+    100044: corridor011
+    100046: corridor012
+    100048: corridor013
+    100050: corridor014
+    100052: corridorOuterWall
+    100054: corridorOuterWall002
+    100056: corridorOuterWall003
+    100058: corridorOuterWall004
+    100060: corridorOuterWall005
+    100062: corridorOuterWall006
+    100064: corridorOuterWall007
+    100066: corridorOuterWall008
+    100068: corridorOuterWall009
+    100070: corridorOuterWall010
+    100072: corridorToRoom
+    100074: corridorToRoom001
+    100076: floor
+    100078: floor001
+    100080: floor002
+    100082: floor003
+    100084: floor004
+    100086: floor005
+    100088: floorFrame
+    100090: floorFrame001
+    100092: floorFrame002
+    100094: floorFrame003
+    100096: floorSidePlane
+    100098: floorSidePlane002
+    100100: floorSidePlane003
+    100102: floorSidePlane004
+    100104: Object005
+    100106: Object006
+    100108: Object007
+    100110: Object008
+    100112: Object009
+    100114: Object010
+    100116: seat
+    100118: seat001
+    100120: Spaceship001
+    100122: spaceship_forStadium
+    100124: stadium
+    100126: StarCompass_entrance003
+    100128: StarCompass_entranceLightA002
+    100130: StarCompass_entranceLightB002
+    100132: StarCompass_frame003
+    100134: StarCompass_glass002
+    100136: StarCompass_ring003
+    100138: //RootNode
+    100140: waitingRoom
+    100142: waitingRoom 1
+    100144: waitingRoom 2
+    100146: waitingRoom002
+    100148: waitingRoomGlass
+    100150: waitingRoomGlass001
+    100152: windows
+    400000: boosters
+    400002: Box003
+    400004: Box004
+    400006: Box005
+    400008: Box006
+    400010: Box007
+    400012: Box008
+    400014: Box009
+    400016: Box010
+    400018: connectThingy
+    400020: corridor
+    400022: corridor 1
+    400024: corridor002
+    400026: corridor003
+    400028: corridor003 1
+    400030: corridor004
+    400032: corridor004 1
+    400034: corridor006
+    400036: corridor007
+    400038: corridor008
+    400040: corridor009
+    400042: corridor010
+    400044: corridor011
+    400046: corridor012
+    400048: corridor013
+    400050: corridor014
+    400052: corridorOuterWall
+    400054: corridorOuterWall002
+    400056: corridorOuterWall003
+    400058: corridorOuterWall004
+    400060: corridorOuterWall005
+    400062: corridorOuterWall006
+    400064: corridorOuterWall007
+    400066: corridorOuterWall008
+    400068: corridorOuterWall009
+    400070: corridorOuterWall010
+    400072: corridorToRoom
+    400074: corridorToRoom001
+    400076: floor
+    400078: floor001
+    400080: floor002
+    400082: floor003
+    400084: floor004
+    400086: floor005
+    400088: floorFrame
+    400090: floorFrame001
+    400092: floorFrame002
+    400094: floorFrame003
+    400096: floorSidePlane
+    400098: floorSidePlane002
+    400100: floorSidePlane003
+    400102: floorSidePlane004
+    400104: Object005
+    400106: Object006
+    400108: Object007
+    400110: Object008
+    400112: Object009
+    400114: Object010
+    400116: seat
+    400118: seat001
+    400120: Spaceship001
+    400122: spaceship_forStadium
+    400124: stadium
+    400126: StarCompass_entrance003
+    400128: StarCompass_entranceLightA002
+    400130: StarCompass_entranceLightB002
+    400132: StarCompass_frame003
+    400134: StarCompass_glass002
+    400136: StarCompass_ring003
+    400138: //RootNode
+    400140: waitingRoom
+    400142: waitingRoom 1
+    400144: waitingRoom 2
+    400146: waitingRoom002
+    400148: waitingRoomGlass
+    400150: waitingRoomGlass001
+    400152: windows
+    2300000: boosters
+    2300002: Box003
+    2300004: Box004
+    2300006: Box005
+    2300008: Box006
+    2300010: Box007
+    2300012: Box008
+    2300014: Box009
+    2300016: Box010
+    2300018: connectThingy
+    2300020: corridor 1
+    2300022: corridor003 1
+    2300024: corridor004 1
+    2300026: corridor006
+    2300028: corridor007
+    2300030: corridor008
+    2300032: corridor011
+    2300034: corridor012
+    2300036: corridorOuterWall
+    2300038: corridorOuterWall002
+    2300040: corridorOuterWall003
+    2300042: corridorOuterWall004
+    2300044: corridorOuterWall005
+    2300046: corridorOuterWall006
+    2300048: corridorOuterWall007
+    2300050: corridorOuterWall008
+    2300052: corridorOuterWall009
+    2300054: corridorOuterWall010
+    2300056: corridorToRoom
+    2300058: corridorToRoom001
+    2300060: floor
+    2300062: floor001
+    2300064: floor002
+    2300066: floor003
+    2300068: floor004
+    2300070: floor005
+    2300072: floorFrame
+    2300074: floorFrame001
+    2300076: floorFrame002
+    2300078: floorFrame003
+    2300080: floorSidePlane
+    2300082: floorSidePlane002
+    2300084: floorSidePlane003
+    2300086: floorSidePlane004
+    2300088: Object005
+    2300090: Object006
+    2300092: Object007
+    2300094: Object008
+    2300096: Object009
+    2300098: Object010
+    2300100: seat
+    2300102: seat001
+    2300104: Spaceship001
+    2300106: StarCompass_entrance003
+    2300108: StarCompass_entranceLightA002
+    2300110: StarCompass_entranceLightB002
+    2300112: StarCompass_frame003
+    2300114: StarCompass_glass002
+    2300116: StarCompass_ring003
+    2300118: waitingRoom 1
+    2300120: waitingRoom 2
+    2300122: waitingRoomGlass
+    2300124: waitingRoomGlass001
+    2300126: windows
+    3300000: boosters
+    3300002: Box003
+    3300004: Box004
+    3300006: Box005
+    3300008: Box006
+    3300010: Box007
+    3300012: Box008
+    3300014: Box009
+    3300016: Box010
+    3300018: connectThingy
+    3300020: corridor 1
+    3300022: corridor003 1
+    3300024: corridor004 1
+    3300026: corridor006
+    3300028: corridor007
+    3300030: corridor008
+    3300032: corridor011
+    3300034: corridor012
+    3300036: corridorOuterWall
+    3300038: corridorOuterWall002
+    3300040: corridorOuterWall003
+    3300042: corridorOuterWall004
+    3300044: corridorOuterWall005
+    3300046: corridorOuterWall006
+    3300048: corridorOuterWall007
+    3300050: corridorOuterWall008
+    3300052: corridorOuterWall009
+    3300054: corridorOuterWall010
+    3300056: corridorToRoom
+    3300058: corridorToRoom001
+    3300060: floor
+    3300062: floor001
+    3300064: floor002
+    3300066: floor003
+    3300068: floor004
+    3300070: floor005
+    3300072: floorFrame
+    3300074: floorFrame001
+    3300076: floorFrame002
+    3300078: floorFrame003
+    3300080: floorSidePlane
+    3300082: floorSidePlane002
+    3300084: floorSidePlane003
+    3300086: floorSidePlane004
+    3300088: Object005
+    3300090: Object006
+    3300092: Object007
+    3300094: Object008
+    3300096: Object009
+    3300098: Object010
+    3300100: seat
+    3300102: seat001
+    3300104: Spaceship001
+    3300106: StarCompass_entrance003
+    3300108: StarCompass_entranceLightA002
+    3300110: StarCompass_entranceLightB002
+    3300112: StarCompass_frame003
+    3300114: StarCompass_glass002
+    3300116: StarCompass_ring003
+    3300118: waitingRoom 1
+    3300120: waitingRoom 2
+    3300122: waitingRoomGlass
+    3300124: waitingRoomGlass001
+    3300126: windows
+    4300000: boosters
+    4300002: windows
+    4300004: Spaceship001
+    4300006: connectThingy
+    4300008: Box004
+    4300010: floorSidePlane
+    4300012: floor
+    4300014: floorFrame
+    4300016: Box003
+    4300018: Object005
+    4300020: corridor
+    4300022: corridorOuterWall
+    4300024: corridorOuterWall002
+    4300026: Box005
+    4300028: floorSidePlane002
+    4300030: floor001
+    4300032: floorFrame001
+    4300034: Box006
+    4300036: Object006
+    4300038: corridor003
+    4300040: floorFrame002
+    4300042: Object007
+    4300044: corridorOuterWall003
+    4300046: floorSidePlane003
+    4300048: corridor004
+    4300050: floor002
+    4300052: Box007
+    4300054: Box008
+    4300056: floorFrame003
+    4300058: Object008
+    4300060: corridorOuterWall004
+    4300062: floorSidePlane004
+    4300064: corridor006
+    4300066: floor003
+    4300068: Box009
+    4300070: Box010
+    4300072: waitingRoom
+    4300074: seat
+    4300076: waitingRoomGlass
+    4300078: floor004
+    4300080: Object009
+    4300082: corridorOuterWall005
+    4300084: corridorToRoom
+    4300086: waitingRoom
+    4300088: seat001
+    4300090: waitingRoomGlass001
+    4300092: floor005
+    4300094: Object010
+    4300096: corridorOuterWall006
+    4300098: corridorToRoom001
+    4300100: corridor007
+    4300102: corridorOuterWall007
+    4300104: corridor008
+    4300106: corridorOuterWall008
+    4300108: corridor011
+    4300110: corridorOuterWall010
+    4300112: corridorOuterWall009
+    4300114: corridor012
+    4300116: StarCompass_ring003
+    4300118: StarCompass_frame003
+    4300120: StarCompass_glass002
+    4300122: StarCompass_entranceLightA002
+    4300124: StarCompass_entranceLightB002
+    4300126: StarCompass_entrance003
+    6400000: boosters
+    6400002: Box003
+    6400004: Box004
+    6400006: Box005
+    6400008: Box006
+    6400010: Box007
+    6400012: Box008
+    6400014: Box009
+    6400016: Box010
+    6400018: connectThingy
+    6400020: corridor 1
+    6400022: corridor003 1
+    6400024: corridor004 1
+    6400026: corridor006
+    6400028: corridor007
+    6400030: corridor008
+    6400032: corridor011
+    6400034: corridor012
+    6400036: corridorOuterWall
+    6400038: corridorOuterWall002
+    6400040: corridorOuterWall003
+    6400042: corridorOuterWall004
+    6400044: corridorOuterWall005
+    6400046: corridorOuterWall006
+    6400048: corridorOuterWall007
+    6400050: corridorOuterWall008
+    6400052: corridorOuterWall009
+    6400054: corridorOuterWall010
+    6400056: corridorToRoom
+    6400058: corridorToRoom001
+    6400060: floor
+    6400062: floor001
+    6400064: floor002
+    6400066: floor003
+    6400068: floor004
+    6400070: floor005
+    6400072: floorFrame
+    6400074: floorFrame001
+    6400076: floorFrame002
+    6400078: floorFrame003
+    6400080: floorSidePlane
+    6400082: floorSidePlane002
+    6400084: floorSidePlane003
+    6400086: floorSidePlane004
+    6400088: Object005
+    6400090: Object006
+    6400092: Object007
+    6400094: Object008
+    6400096: Object009
+    6400098: Object010
+    6400100: seat
+    6400102: seat001
+    6400104: Spaceship001
+    6400106: StarCompass_entrance003
+    6400108: StarCompass_entranceLightA002
+    6400110: StarCompass_entranceLightB002
+    6400112: StarCompass_frame003
+    6400114: StarCompass_glass002
+    6400116: StarCompass_ring003
+    6400118: waitingRoom 1
+    6400120: waitingRoom 2
+    6400122: waitingRoomGlass
+    6400124: waitingRoomGlass001
+    6400126: windows
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: booster
+    second: {fileID: 2100000, guid: 04c00274c0b24de43b9f482ad41e6b1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: colorA
+    second: {fileID: 2100000, guid: 457904ea466018c4eb9086a71a402906, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: colorALight
+    second: {fileID: 2100000, guid: 106c5bb7addc65747a0ae001057ad9bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: colorB
+    second: {fileID: 2100000, guid: 5d584c89747408b40ab45a2885f54c58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: colorBLight
+    second: {fileID: 2100000, guid: 6f5d131fb10982f4ab96a39bf1e83b63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: corridor
+    second: {fileID: 2100000, guid: 14b7d3a10539f384ea36bd6685564e79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: corridorOuterWall
+    second: {fileID: 2100000, guid: d2fc141322d81064f9edb48eb07e0fa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: entrances
+    second: {fileID: 2100000, guid: 6400fbb573820d745a46bde0c191d470, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor
+    second: {fileID: 2100000, guid: 80939b5d4ec64064db5e2b450daf2793, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor02
+    second: {fileID: 2100000, guid: 4d8a31239a97446448f82c4c3dd87f28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame
+    second: {fileID: 2100000, guid: 17c36a26d5f75ec4fbbdee5f863a81cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: ea459c189bcf55948bfebe8d7099e901, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light
+    second: {fileID: 2100000, guid: 7961da162bce5ef4f99f28d68c40db41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightSide
+    second: {fileID: 2100000, guid: 1a01baff460659640bb3a8f7eab1b3cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ring
+    second: {fileID: 2100000, guid: b96be56b712141f4d91b0fa45ba2f1f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seat
+    second: {fileID: 2100000, guid: c32bfed58ce41e3499ff451475580111, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seatMetapartl
+    second: {fileID: 2100000, guid: ee7f67bdfc7f12c4e92a670f94a3c878, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spaceship
+    second: {fileID: 2100000, guid: 901406e7ba18de84a96735cc9d15ec5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: waitingRoom
+    second: {fileID: 2100000, guid: 1102585c016f48842b646c3a9fce24bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: 9588c87aa0f3d9645b6c4afb0e957ca6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
